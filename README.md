@@ -1,5 +1,5 @@
 # LinkedIn CV Downloader
-A GUI-based(Graphical User Interface) Python automation software for downloading bulk LinkedIn CV from a list of profile links. Automation makes our lives easier. With this open source Python based software, you'll have the ability to automatically download CV of different LinkedIn profiles in a folder organized by their usernames. LinkedIn automatic CV downloader executable file is compiled for your easier convenience too that you can download from here.
+A GUI-based(Graphical User Interface) Python automation software for downloading bulk LinkedIn CV from a list of profile links. Automation makes our lives easier. With this open source Python based software, you'll have the ability to automatically download CV of different LinkedIn profiles in a folder organized by their usernames.<br>LinkedIn automatic CV downloader executable file is compiled for your easier convenience too that you can download from <a href="https://github.com/TufayelLUS/LinkedIn-CV-Downloader/tree/main/Executable">here</a>.
 
 # Interface Presentation
 The main screen will look like this:<br><br>
@@ -15,12 +15,13 @@ Downloaded CVs folder will look like this after successful downloads of the CV f
 * Doesn't require any LinkedIn account details but live cookies from an existing LinkedIn browser session. This saves triggering the LinkedIn safety system in most scenarios.
 
 # How to install this?
-1. First, download Python software from Python's official website. Python 3.x only is supported. Download from <a href="https://python.org/downloads">here</a> or for a precise Python version, <a href="https://www.python.org/downloads/release/python-3118/">download this version</a> and scroll to the bottom to download the correct version based on your operating system and <b>make sure to tick on "Add to PATH" during installation in windows machines</b>
-2. Now, from the start menu (Windows) or Applications list (Linux/Mac), search for Command Prompt (Windows) or terminal (on Mac/Linux) and copy-paste the command written below:
+1. If you want to run a compiled program directly, here's a <a href="https://github.com/TufayelLUS/LinkedIn-CV-Downloader/tree/main/Executable">compiled program</a>
+2. First, download Python software from Python's official website. Python 3.x only is supported. Download from <a href="https://python.org/downloads">here</a> or for a precise Python version, <a href="https://www.python.org/downloads/release/python-3118/">download this version</a> and scroll to the bottom to download the correct version based on your operating system and <b>make sure to tick on "Add to PATH" during installation in windows machines</b>
+3. Now, from the start menu (Windows) or Applications list (Linux/Mac), search for Command Prompt (Windows) or terminal (on Mac/Linux) and copy-paste the command written below:
 <pre>pip3 install requests</pre><br>
 This will show some installation progress and will install the library eventually. If you see any pip warning, you may ignore that as that's optional.
 * If pip doesn't get recognized as a command, please re-install Python with "Add python to executable path" enabled, or for Mac/Linux, run the command <code>apt-get install python3-pip</code>
-3. Now check the Usage Guide section.
+4. Now check the Usage Guide section.
 
 # Usage Guide 
 1. Assuming that the Python software and the library required by this project are installed, time for the script execution. First, download the Python script of your choice and put it inside a folder.
