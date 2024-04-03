@@ -24,8 +24,9 @@ This will show some installation progress and will install the library eventuall
 
 # Usage Guide 
 1. Assuming that the Python software and the library required by this project are installed, time for the script execution. First, download the Python script of your choice and put it inside a folder.
-2. Right-click on the Python script and select the option "Edit with IDLE". If you don't see this option, you have to figure that out yourself to fix the problem but a correct installation will show this option in the right-click menu.
-3. Now, locate the <b>Run</b> menu and select <b>Run Module</b> and control the software using the GUI screen.
+2. Load the cookies in the cookies.txt file by following the "How to collect cookies?" section.
+3. Right-click on the Python script and select the option "Edit with IDLE". If you don't see this option, you have to figure that out yourself to fix the problem but a correct installation will show this option in the right-click menu.
+4. Now, locate the <b>Run</b> menu and select <b>Run Module</b> and control the software using the GUI screen.
 
 # How to collect cookies?
 1. Login to LinkedIn from your Chrome browser(or your favorite one) and navigate to <a href="https://www.linkedin.com/company/linkedin/">https://www.linkedin.com/company/linkedin/</a>
