@@ -1,5 +1,5 @@
-# LinkedIn CV Downloader
-A GUI-based(Graphical User Interface) Python automation software for downloading bulk LinkedIn CV from a list of profile links. Automation makes our lives easier. With this open source Python based software, you'll have the ability to automatically download CV of different LinkedIn profiles in a folder organized by their usernames.<br>LinkedIn automatic CV downloader executable file is compiled for your easier convenience too that you can download from <a href="https://github.com/TufayelLUS/LinkedIn-CV-Downloader/tree/main/Executable">here</a>.
+# LinkedIn CV Downloader / LinkedIn Resume Downloader
+A GUI-based(Graphical User Interface) Python automation software for downloading bulk LinkedIn CV / LinkedIn Resume from a list of profile links. Automation makes our lives easier. With this open-source Python-based software, you'll have the ability to automatically download CVs/Resumes of different LinkedIn profiles in a folder organized by their usernames.<br>LinkedIn automatic CV/Resume downloader executable file is compiled for your easier convenience too that you can download from <a href="https://github.com/TufayelLUS/LinkedIn-CV-Downloader/tree/main/Executable">here</a>.
 
 # Interface Presentation
 The main screen will look like this:<br><br>
